@@ -1,0 +1,26 @@
+.big-img{
+    object-fit: cover;
+    height: 600px;
+}
+.title-text{
+    font-size: 40px;
+    font-weight: 600;
+    color: antiquewhite;
+    text-shadow: 2px 2px #433e3e;
+}
+.desc{
+    color: white;
+    text-shadow: 1px 1px #433e3e;
+}
+.small-img{
+   
+    height: 225px;
+    object-fit: cover;
+}
+.card{
+    height: 450px;
+    
+}
+.btn-group{
+    align-self: flex-end;
+}
